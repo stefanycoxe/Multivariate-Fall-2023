@@ -1,15 +1,5 @@
 project:
   type: website
-<<<<<<< HEAD
-
-website:
-  title: "website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-=======
   output-dir: docs
 
 website:
@@ -18,7 +8,6 @@ website:
     logo: "mult2023.png"
     pinned: true
     align: center
->>>>>>> 177986d (first commit)
 
 format:
   html:
@@ -26,9 +15,4 @@ format:
     css: styles.css
     toc: true
 
-<<<<<<< HEAD
-
-
-=======
 editor: visual
->>>>>>> 177986d (first commit)

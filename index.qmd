@@ -1,16 +1,4 @@
 ---
-<<<<<<< HEAD
-title: "website"
----
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-=======
 title: "Multivariate (PSY 5246C) - Fall 2023"
 ---
 
@@ -21,4 +9,3 @@ Syllabus: [HTML](files/Multivariate syllabus Fall 2023.html) [PDF](files/Multiva
 | Week | Topic                           | HTML slides | PDF handout |
 |------|---------------------------------|-------------|-------------|
 | 1    | Matrix algebra                  | [Mult23-1.html](files/Mult23-1.html) | [Mult23-1.pdf](files/Mult23-1.pdf) |
->>>>>>> 177986d (first commit)
