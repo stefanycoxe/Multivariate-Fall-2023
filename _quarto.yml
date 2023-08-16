@@ -1,5 +1,6 @@
 project:
   type: website
+<<<<<<< HEAD
 
 website:
   title: "website"
@@ -8,6 +9,16 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+=======
+  output-dir: docs
+
+website:
+  title: "Multivariate (PSY 5246C) - Fall 2023"
+  sidebar:
+    logo: "mult2023.png"
+    pinned: true
+    align: center
+>>>>>>> 177986d (first commit)
 
 format:
   html:
@@ -15,5 +26,9 @@ format:
     css: styles.css
     toc: true
 
+<<<<<<< HEAD
 
 
+=======
+editor: visual
+>>>>>>> 177986d (first commit)
