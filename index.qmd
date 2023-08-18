@@ -4,7 +4,7 @@ title: "Multivariate (PSY 5246C) - Fall 2023"
 
 Syllabus: [HTML](files/Multivariate syllabus Fall 2023.html) [PDF](files/Multivariate-syllabus-Fall-2023.pdf)
 
-[Lecture videos on Youtube](https://www.youtube.com/playlist?list=PLKrGRYggZL-FzRt07NB99RwH6y-n7ytzv)
+[Lecture videos on Youtube](https://www.youtube.com/playlist?list=PLKrGRYggZL-Hk59tYcUX-kS10OAQOQjmp)
 
 | Week | Topic                           | HTML slides | PDF handout |
 |------|---------------------------------|-------------|-------------|
