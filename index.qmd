@@ -6,6 +6,7 @@ Syllabus: [HTML](files/Multivariate syllabus Fall 2023.html) [PDF](files/Multiva
 
 [Lecture videos on Youtube](https://www.youtube.com/playlist?list=PLKrGRYggZL-Hk59tYcUX-kS10OAQOQjmp)
 
-| Week | Topic                           | HTML slides | PDF handout |
-|------|---------------------------------|-------------|-------------|
-| 1    | Matrix algebra                  | [Mult23-1.html](files/Mult23-1.html) | [Mult23-1.pdf](files/Mult23-1.pdf) |
+| Week | Topic                   | HTML slides | PDF handout |
+|------|-------------------------|-------------|-------------|
+| 1    | Matrix algebra          | [Mult23-1.html](files/Mult23-1.html) | [Mult23-1.pdf](files/Mult23-1.pdf) |
+| 2    | Linear regression       | [Mult23-2.html](files/Mult23-2.html) | [Mult23-2.pdf](files/Mult23-2.pdf) |
