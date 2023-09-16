@@ -12,3 +12,4 @@ Syllabus: [HTML](files/Multivariate syllabus Fall 2023.html) [PDF](files/Multiva
 | 2    | Linear regression       | [Mult23-2.html](files/Mult23-2.html) | [Mult23-2.pdf](files/Mult23-2.pdf) |
 | 3    | Linear regression       | [Mult23-3.html](files/Mult23-3.html) | [Mult23-3.pdf](files/Mult23-3.pdf) |
 | 4    | Logistic regression       | [Mult23-4.html](files/Mult23-4.html) | [Mult23-4.pdf](files/Mult23-4.pdf) |
+| 5    | Poisson regression        | [Mult23-5.html](files/Mult23-5.html) | [Mult23-5.pdf](files/Mult23-5.pdf) |
