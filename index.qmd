@@ -15,3 +15,4 @@ Syllabus: [HTML](files/Multivariate syllabus Fall 2023.html) [PDF](files/Multiva
 | 5    | Poisson regression        | [Mult23-5.html](files/Mult23-5.html) | [Mult23-5.pdf](files/Mult23-5.pdf) |
 | 6    | Matrix algebra 2          | [Mult23-6.html](files/Mult23-6.html) | [Mult23-6.pdf](files/Mult23-6.pdf) |
 | 7    | Principal components analysis | [Mult23-7.html](files/Mult23-7.html) | [Mult23-7.pdf](files/Mult23-7.pdf) | 
+| 8    | Factor analysis           | [Mult23-8.html](files/Mult23-8.html) | [Mult23-8.pdf](files/Mult23-8.pdf) |
