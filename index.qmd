@@ -19,3 +19,4 @@ Syllabus: [HTML](files/Multivariate syllabus Fall 2023.html) [PDF](files/Multiva
 | LCA  | Latent class analysis     | [Mult23-LCA.html](files/Mult23-LCA.html) | [Mult23-LCA.pdf](files/Mult23-LCA.pdf) |
 | 9    | MANOVA & RM ANOVA         | [Mult23-9.html](files/Mult23-9.html) | [Mult23-9.pdf](files/Mult23-9.pdf) |
 | 10   | Mixed models              | [Mult23-10.html](files/Mult23-10.html) | [Mult23-10.pdf](files/Mult23-10.pdf) |
+
